@@ -1,0 +1,1 @@
+<div class="form-text"><?php echo e($slot); ?></div><?php /**PATH E:\Projects\Lebanon\Michael\habib0827\Trans food Trading\bin\resources\views/components/form-text.blade.php ENDPATH**/ ?>

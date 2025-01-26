@@ -1,0 +1,2 @@
+<div class="small text-muted mb-3"><?php echo e($slot); ?></div>
+<?php /**PATH F:\Real\XSmarl-F1(8.10)\XSmarl-F1\bin\resources\views/components/page-subtitle.blade.php ENDPATH**/ ?>

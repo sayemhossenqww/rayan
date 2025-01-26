@@ -1,0 +1,1 @@
+<div class="form-text"><?php echo e($slot); ?></div><?php /**PATH /Applications/htdocs/wmk/pos/resources/views/components/form-text.blade.php ENDPATH**/ ?>

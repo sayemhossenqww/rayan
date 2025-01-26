@@ -1,0 +1,2 @@
+<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+<?php /**PATH E:\Apple\PHP\WMK\CowMilkVillage_16092\CowMilkVillage\bin\resources\views/components/btn-alert-dismiss.blade.php ENDPATH**/ ?>

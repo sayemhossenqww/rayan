@@ -1,0 +1,2 @@
+<meta name="lang-value" content="<?php echo e($settings->lang); ?>">
+<meta name="dir-value" content="<?php echo e($settings->dir); ?>"><?php /**PATH E:\Projects\Lebanon\Michael\Website\habib0827\Trans food Trading\bin\resources\views/layouts/lang-tag.blade.php ENDPATH**/ ?>

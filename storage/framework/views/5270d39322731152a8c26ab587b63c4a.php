@@ -1,0 +1,2 @@
+<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+<?php /**PATH C:\Users\Administrator\Desktop\XSmart_v1\resources\views/components/btn-alert-dismiss.blade.php ENDPATH**/ ?>

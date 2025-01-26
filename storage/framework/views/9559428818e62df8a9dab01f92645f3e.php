@@ -1,0 +1,2 @@
+<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+<?php /**PATH /opt/lampp/htdocs/wmk_work/Vortex (1)/Vortex/bin/resources/views/components/btn-alert-dismiss.blade.php ENDPATH**/ ?>

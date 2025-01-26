@@ -1,0 +1,2 @@
+<meta name="lang-value" content="<?php echo e($settings->lang); ?>">
+<meta name="dir-value" content="<?php echo e($settings->dir); ?>"><?php /**PATH E:\Projects\Lebanon\Michael\habib0827\alraei\bin\resources\views/layouts/lang-tag.blade.php ENDPATH**/ ?>

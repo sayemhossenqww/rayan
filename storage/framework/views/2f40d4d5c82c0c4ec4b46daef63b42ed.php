@@ -1,0 +1,1 @@
+<div class="form-text"><?php echo e($slot); ?></div><?php /**PATH /opt/lampp/htdocs/wmk_work/Vortex (1)/Vortex/bin/resources/views/components/form-text.blade.php ENDPATH**/ ?>

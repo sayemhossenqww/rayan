@@ -1,0 +1,1 @@
+<div class="form-text"><?php echo e($slot); ?></div><?php /**PATH E:\Apple\PHP\WMK\coco boss\coco boss\bin\resources\views/components/form-text.blade.php ENDPATH**/ ?>

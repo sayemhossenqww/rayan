@@ -1,0 +1,1 @@
+<div class="form-text"><?php echo e($slot); ?></div><?php /**PATH D:\leba\retail-shop\resources\views/components/form-text.blade.php ENDPATH**/ ?>

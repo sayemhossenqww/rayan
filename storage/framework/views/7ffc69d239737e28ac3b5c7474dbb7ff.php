@@ -1,0 +1,2 @@
+<div class="small text-muted mb-3"><?php echo e($slot); ?></div>
+<?php /**PATH E:\Projects\Lebanon\Michael\Website\habib0827\Trans food Trading\bin\resources\views/components/page-subtitle.blade.php ENDPATH**/ ?>

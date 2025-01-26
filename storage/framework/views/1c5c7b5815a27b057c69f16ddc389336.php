@@ -1,0 +1,2 @@
+<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+<?php /**PATH /var/www/html/wmk/coco-boss-v1/coco boss/bin/resources/views/components/btn-alert-dismiss.blade.php ENDPATH**/ ?>
