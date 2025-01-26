@@ -1,0 +1,31 @@
+export interface IProduct {
+    id: string;
+    name: string;
+    full_name: string;
+    image_url: string;
+    box_barcode: string;
+    unit_barcode: string;
+    superdealer_barcode: string;
+    wholesale_barcode: string;
+    pricepergram_barcode: string;
+    priceperkilogram_barcode: string;
+    box_sku: string;
+    unit_sku: string;
+    superdealer_sku: string;
+    wholesale_sku: string;
+    pricepergram_sku: string;
+    priceperkilogram_sku: string;
+    price: number | undefined;
+    wholesale_price: number | undefined;
+    box_price: number | undefined;
+    unit_price: number | undefined;
+    in_stock: number;
+    track_stock: boolean;
+    continue_selling_when_out_of_stock: boolean;
+    price_per_gram: number | undefined;
+    price_per_kilogram: number | undefined;
+    count_per_box: number | undefined;
+    expiry_date: string | undefined;
+    cost_unit: string;
+    box_unit: string;
+}
